@@ -31,7 +31,7 @@ or (c.d[1],[3],[5].d[7]);
 endrodule
 ````
 # OUTPUT:
-[image]![WhatsApp Image 2024-03-25 at 14 19 02_adee6674](https://github.com/Afsar1276/DECODER2TO4/assets/161407741/de2146d0-706f-4e88-82d0-06c5943ef539)
+[image]![WhatsApp Image 2024-03-25 at 14 19 17_3acb1c9a](https://github.com/Afsar1276/ENCODER8TO3/assets/161407741/5e13a1c5-db74-4edf-ae77-47e2f34ee767)
 
 # RESULT:
 Thus the verilog program for encoder has been simulated and verified successfully.
