@@ -35,3 +35,4 @@ endrodule
 
 # RESULT:
 Thus the verilog program for encoder has been simulated and verified successfully.
+
